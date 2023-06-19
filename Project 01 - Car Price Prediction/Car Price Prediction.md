@@ -10,8 +10,13 @@ Packeges Required.
       + Numpy
       + Matplotlib.
       + Seaborn
-      + SNS
 
       
 + Data Wrangling
+
+      + Handling Missing Data.
+      + Correct the Data Format.
+      + Data Standardization.
+      + Data Normalization.
+  
 + Exploratory Data Analysis.
