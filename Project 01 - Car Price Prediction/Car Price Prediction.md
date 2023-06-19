@@ -19,4 +19,4 @@ Data Wrangling
   + Data Standardization.
   + Data Normalization.
   
-+ Exploratory Data Analysis.
+Exploratory Data Analysis.
