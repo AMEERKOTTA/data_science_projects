@@ -12,7 +12,7 @@ Packeges Required.
   + Seaborn
 
       
-+ Data Wrangling
+Data Wrangling
 
   + Handling Missing Data.
   + Correct the Data Format.
