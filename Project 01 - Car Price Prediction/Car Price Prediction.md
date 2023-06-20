@@ -10,6 +10,9 @@ Packeges Required.
   + Numpy
   + Matplotlib.
   + Seaborn
+  + sklearn
+  + linear regression module
+  + MSE and R2 score metrics
 
       
 Data Wrangling : Initial Data Analysis
