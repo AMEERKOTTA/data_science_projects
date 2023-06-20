@@ -34,11 +34,17 @@ Exploratory Data Analysis.
   + ANOVA method.
   + Finally getting the most important variables that will affect the price of the car.
 
-Model Development
+Model Development.
 
   + Develop the Simple Linear Regression, Multiple Linear Regression and Polynomial Regression Models.
   + Visualize the best fits to the Models.
   + Compute the r2-square and MSE values for the model.
   + Decide which model is better to predict the Car Price by Comparing the MSE and R2 values for different Models.
 
+Model Evaluation and Refinement.
 
+  + Overfitting, Underfitting and Model Selection Methods.
+  + Training and Testing using train_test_split method.
+  + Cross validation method if the data is Less.
+  + Ridge Regression
+  + Grid Search CV method for finding the best hyperparameter.
