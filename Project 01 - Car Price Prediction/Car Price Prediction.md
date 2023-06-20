@@ -12,7 +12,7 @@ Packeges Required.
   + Seaborn
 
       
-Data Wrangling
+Data Wrangling : Initial Data Analysis
 
   + Handling Missing Data.
   + Correct the Data Format.
@@ -29,4 +29,13 @@ Exploratory Data Analysis.
   + Get the Value Counts of Categorical Data Points to Understand the Data is Distributed in a way that it will act as a Price Estimator.
   + Pearsons Correlation Theory and Practice.
   + ANOVA method.
-  + Finally getting the most 
+  + Finally getting the most
+
+Model Development
+
+  + Develop the Simple Linear Regression, Multiple Linear Regression and Polynomial Regression Models.
+  + Visualize the best fits to the Models.
+  + Compute the r2-square and MSE values for the model.
+  + Decide which model is better to predict the Car Price by Comparing the MSE and R2 values for different Models.
+
+
