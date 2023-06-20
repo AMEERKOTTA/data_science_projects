@@ -29,7 +29,7 @@ Exploratory Data Analysis.
   + Get the Value Counts of Categorical Data Points to Understand the Data is Distributed in a way that it will act as a Price Estimator.
   + Pearsons Correlation Theory and Practice.
   + ANOVA method.
-  + Finally getting the most
+  + Finally getting the most important variables that will affect the price of the car.
 
 Model Development
 
