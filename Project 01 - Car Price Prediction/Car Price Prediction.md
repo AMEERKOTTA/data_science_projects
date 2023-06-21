@@ -1,4 +1,4 @@
-## **Car Price Prediction**
+## **CAR PRICE PREDICTION**
 
 Dataset : Car Details Dataset.
 
